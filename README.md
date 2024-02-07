@@ -1,4 +1,4 @@
-# Single-cell sequencing of pig spleen after ASFV infection
+# Single-cell profiling of African swine fever virus disease in the pig spleen reveals viral and host dynamics
 
 ## System requirements
 
